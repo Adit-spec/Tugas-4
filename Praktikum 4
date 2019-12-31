@@ -48,4 +48,5 @@ for item in daftar_nilai:
     i+=1
     print("| {no:2d} |  {nama:12s} | {NIM:9d} | {tugas:5d} | {UTS:3d} | {UAS:3d} | {akhir:5.2f} |".format(nama=item[0], NIM=item[1], tugas=item[2], UTS=item[3], UAS=item[4], akhir=item[5], no=i))
     
-    
+
+![FW 1](https://user-images.githubusercontent.com/56240997/71611444-7f297400-2bcb-11ea-8f75-0e22b1687dc8.jpg)
